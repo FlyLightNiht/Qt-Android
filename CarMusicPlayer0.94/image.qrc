@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>back.png</file>
+        <file>backgrd.png</file>
+        <file>bottom.png</file>
+        <file>button1.png</file>
+        <file>cd.png</file>
+        <file>oil.png</file>
+        <file>wifi.png</file>
+        <file>backbroad.png</file>
+        <file>button.png</file>
+        <file>button2.png</file>
+        <file>garbage.png</file>
+        <file>horn.png</file>
+        <file>music1.png</file>
+        <file>music2.png</file>
+        <file>music3.png</file>
+        <file>music4.png</file>
+        <file>musicc1.png</file>
+        <file>musicc2.png</file>
+        <file>yingif.gif</file>
+        <file>garbage1.png</file>
+        <file>closeimage.png</file>
+        <file>former.png</file>
+        <file>nextone.png</file>
+        <file>smaller.png</file>
+        <file>vert1.png</file>
+        <file>vert2.png</file>
+        <file>bigger.png</file>
+        <file>open.png</file>
+        <file>dis_1.png</file>
+        <file>warning.png</file>
+        <file>cheliangreturn.png</file>
+        <file>warning1.png</file>
+        <file>warning2.png</file>
+        <file>alpha.png</file>
+        <file>key3.png</file>
+        <file>no.png</file>
+        <file>num2.png</file>
+        <file>num3.png</file>
+    </qresource>
+</RCC>
